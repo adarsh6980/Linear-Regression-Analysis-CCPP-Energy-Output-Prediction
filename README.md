@@ -262,7 +262,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 - GitHub: [@adarsh6980](https://github.com/adarsh6980)
 - Email: adireland.ie@gmail.com
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/adarsh-ramakrishna/)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/adarsh-ramakrishna-sd/)
 
 ---
 
